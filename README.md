@@ -65,3 +65,4 @@ The chart below shows the stock's price (Apple, in this case) along with the sho
    ```bash
    git clone https://github.com/BelineIsingizwe/Simple-Trading-Strategy.git
    cd Simple-Trading-Strategy
+manually install the libraries: pip install yfinance pandas matplotlib
